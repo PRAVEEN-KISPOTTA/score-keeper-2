@@ -1,0 +1,11 @@
+#root{
+    text-align: center;
+}
+
+button{
+    cursor: pointer;
+}
+
+.w{
+    color: red;
+}
